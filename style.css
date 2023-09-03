@@ -1,0 +1,53 @@
+table{
+border-collapse: collapse;
+width:100%
+}
+td{
+padding:35px;
+width: 5%;
+border: 4px solid yellow;
+background-color:#1111FF;
+color:white;
+font-size:45px;
+text-align:center;
+width: 100%;
+height: 100%;
+}
+th{
+padding:35px;
+width: 5%;
+border: 4px solid yellow;
+background-color:#1111FF;
+color:white;
+font-size:45px;
+text-align:center;
+width: 100%;
+height: 100%;
+}
+tr{
+padding:35px;
+width: 5%;
+border: 4px solid yellow;
+background-color:#1111FF;
+color:white;
+font-size:45px;
+text-align:center;
+width: 80%;
+height: 100%;
+}
+#main{
+background-color:#1111FF;
+border:4px solid yellow;
+color:white;
+font-size:100px;
+text-align:center;
+width: 100%;
+height: 100%;
+}
+p{
+position:relative;
+top:25%;
+}
+#Tanswer{
+color:#1111FF;
+}
